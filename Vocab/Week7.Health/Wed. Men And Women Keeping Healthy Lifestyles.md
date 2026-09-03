@@ -59,13 +59,48 @@
 - maintain a healthy lifestyle (v) duy trì lối sống lành mạnh
 - get out of sth (v) ra khỏi cái gì; thoát khỏi cái gì
 	- get out of the habit of doing sth (v) bỏ/thoát khỏi thói quen làm gì
-- pull through sth (v)
-- discouraging (a)
-- hope of sth (n)
-- die out (v)
-- insist sth (v)
+- pull through sth (v) /pʊl/ vượt qua, sống sót qua một giai đoạn hoặc tình huống rất khó khăn; hồi phục sau bệnh nặng
+- discouraging (a) /dɪsˈkɜːrɪdʒɪŋ/ : gây nản lòng, làm mất tinh thần; không mấy khả quan
+- disheartening (a) /dɪsˈhɑːrtnɪŋ/ : gây nản lòng, làm mất tinh thần, khiến ai mất hy vọng
+- hope of sth / doing sth (n) /həʊp/ :  hy vọng về cái gì; khả năng/cơ hội để cái gì xảy ra hoặc đạt được
+- die out (v) /daɪ/ /aʊt/ : tuyệt chủng; biến mất hoàn toàn; dần không còn tồn tại
+- insist (v) /ɪnˈsɪst/ : khăng khăng, quả quyết; nhất quyết yêu cầu
+	- insist on sth (v)
+	- insist on doing sth (v)
+	- insist that ... (v)
 # II. Topic. Men And Women Keeping Healthy Lifestyles
-
+- theorize (v) /ˈθiːəraɪz/ : đưa ra giả thuyết/lý thuyết
+	- sb can safely theorize that + clause (v) có thể khá chắc chắn đưa ra giả thuyết/lập luận rằng...
+- gender difference (n) /ˈdʒendər/ : sự khác biệt theo giới / khác biệt giữa các giới
+- activity level (n) /ækˈtɪvəti/ : mức độ hoạt động, đặc biệt là mức độ hoạt động thể chất của một người
+- propensity (n) /prəˈpensəti/ : khuynh hướng, xu hướng thiên về một hành vi hoặc đặc điểm nào đó
+	- propensity for sth (n) khuynh hướng đối với cái gì
+	- propensity for doing sth (n) khuynh hướng làm gì
+	- propensity to do sth (n) khuynh hướng làm gì
+- inclination (n) /ˌɪnklɪˈneɪʃn/ : khuynh hướng, thiên hướng; ý muốn làm gì
+	- inclination to do sth (n) khuynh hướng / ý muốn làm gì
+	- inclination for sth (n) sở thích/thiên hướng đối với sth 
+	- inclination towards sth (n) thiên hướng/ngả về cái gì
+- socializing (n) /ˈsoʊ.ʃə.laɪ.zɪŋ/ : việc giao lưu, giao tiếp và dành thời gian với người khác vì mục đích xã hội
+- physical activity (n) /ˈfɪzɪkl/ : hoạt động thể chất
+- it is a concern that ... (phr) /kənˈsɜːrn/ : điều đáng lo ngại là... / việc... là một vấn đề đáng quan ngại
+- A be inferior to B (a) /ɪnˈfɪriər/ : A kém hơn / thấp hơn B về chất lượng, giá trị, khả năng hoặc mức độ
+- A be superior to B (a) /suːˈpɪriər/ : A tốt hơn / cao hơn B về chất lượng, giá trị, khả năng hoặc mức độ
+- unwholesome (a) /ˌʌnˈhəʊlsəm/: không lành mạnh, có hại cho sức khỏe; không tốt về mặt đạo đức/tinh thần
+- prompt sb to do sth (v) /prɑːmpt/ : thúc đẩy, khiến, thôi thúc ai làm gì, thường vì một sự kiện, tình huống hoặc suy nghĩ nào đó tạo ra phản ứng
+- provision for sb/ sth (n) /prəˈvɪʒn/ : việc chuẩn bị/sắp xếp
+	- made provision for sb/sth (v) : chuẩn bị/sắp xếp cho ai đó/ cái gì đó
+- vigorously (adv) /ˈvɪɡərəsli/ : một cách mạnh mẽ, quyết liệt, đầy năng lượng; với cường độ cao
+- adverse health consequences (n) /ˈædvɜːrs/, /ədˈvɜːrs/ : những hậu quả bất lợi đối với sức khỏe
+- walk around barefoot (v) /ˈberfʊt/ :  đi lại xung quanh bằng chân trần / đi chân đất
+- walk around on bare feet (v) /fiːt/ : đi lại xung quanh bằng chân trần / đi chân đất
+- make up for sth by doing sth (v) bù đắp/ bù lại cho cái gì bằng cách làm gì
+- pianist (n) /ˈpiːənɪst/ : nghệ sĩ piano / người chơi đàn piano
+- epidemiological (a) /ˌepɪˌdiːmiəˈlɑːdʒɪkl/ : thuộc dịch tễ học; liên quan đến sự phân bố, tần suất và các yếu tố liên quan đến bệnh hoặc tình trạng sức khỏe trong quần thể
+- blood circulation (n) /blʌd/ /ˌsɜːrkjəˈleɪʃn/ sự tuần hoàn máu / quá trình máu lưu thông trong cơ thể
+- move (n) /muːv/ : việc chuyển chỗ ở / chuyển địa điểm
+	- a move from somewhere to somewhere (n)
+- swift (a) /swɪft/ : nhanh chóng, mau lẹ, đặc biệt khi một hành động, phản ứng hoặc thay đổi xảy ra rất nhanh
 # III. Word Training
 ## a. physical fitness
 ## b. flexibility

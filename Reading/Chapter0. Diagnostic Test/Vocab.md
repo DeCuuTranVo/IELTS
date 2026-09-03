@@ -1,0 +1,91 @@
+# I. Tourism Development: A Blessing or a Curse ?
+- the Global South (n) /ðə ˌɡləʊbl ˈsaʊθ/ : các nước thuộc Nam Bán Cầu (kém phát triển)
+- exportable (a) /ɪkˈspɔːr.t̬ə.bəl/ : có thể xuất khẩu được
+- lush (a) /lʌʃ/ : rậm rạp
+- luxuriant (a) /lʌɡˈʒʊriənt/ : rậm rạp, sum suê, phát triển tươi tốt, đặc biệt dùng cho cây cối, rau củ quả
+- capitalize (v) /ˈkæpɪtəlaɪz/ : tận dụng
+	- capitalize sth (v)
+- locale (n)  /ləʊˈkæl/ : khu vực, nơi xảy ra
+- green (a) /ɡriːn/ : xanh, thân thiện với môi trường
+- accommodate (v) /əˈkɑːmədeɪt/ : phục vụ, đáp ứng, chứa
+- oblige (v) /əˈblaɪdʒ/ : bắt buộc ai làm gì; làm ơn/giúp đỡ ai; đáp ứng một yêu cầu
+- a horde of + people/persons (n) /hɔːrd/ : đám đông, đoàn người rất đông
+- flora (n) /ˈflɔːrə/ : hệ thực vật
+- erosion (n) /ɪˈrəʊʒn/ : sự xói mòn
+- swamp (n) /swɑːmp/ : đầm lầy
+- marsh (n) /mɑːrʃ/ : đầm lầy, vùng đất ngập nước
+	- salt marsh (n) đầm lầy nước mặn
+	- freshwater marsh (n) đầm lầy nước ngọt
+- disparity (n) /dɪˈspærəti/ : sự bất công bằng, chênh lệch
+- first in line (a) ngay đầu tiên; được ưu tiên/đứng đầu danh sách
+- premium (a) /ˈpriːmiəm/ : cao cấp, chất lượng cao; có giá cao hơn loại thông thường
+- stronghold (n) /ˈstrɔːŋhəʊld/ : vị thế
+- constitute (v) /ˈkɑːnstɪtuːt/ : cấu thành, tạo nên (cấu tạo); được xem là/cấu thành (tội phạm); thành lập, thiết lập (uỷ ban, ...); chiếm (%)
+- displace (v) /dɪsˈpleɪs/ : thay thế, hất cẳng
+	- be displaced (by somebody/something) : bị thay thế, hất cẳngs
+- revolve around (v) /rɪˈvɑːlv/ : xoay quanh
+- unrest (n) /ʌnˈrest/ : sự bất ổn
+- mannerism (n) /ˈmænərɪzəm/ : lối hành xử; cử chỉ, điệu bộ hoặc cách nói đặc trưng mà một người thường lặp lại, đôi khi vô thức và có thể khiến người khác chú ý
+	- Mannerism (n) Chủ nghĩa Kiểu cách (trong nghệ thuật Ý)
+- petty crime (n) /ˈpeti/ phạm tội ở mức độ nhẹ
+	- petty (a) /ˈpeti/ : nhỏ, không quan trọng, không nghiêm trọng
+- mixed blessing (n) /ˈblesɪŋ/ : sự may mà cũng không may; điều vừa có lợi vừa có hại; thứ mang lại cả mặt tích cực lẫn tiêu cực
+- intractable (a) /ɪnˈtræktəbl/ : rất khó giải quyết, xử lý; nan giải
+
+# II. Parental Involvement in Children's Education
+- undertaking (n) /ˌʌndərˈteɪkɪŋ/ : nhiệm vụ, công việc (quan trọng, vất vả)
+- function (n) /ˈfʌŋkʃn/ : một buổi lễ/sự kiện chính thức hoặc xã hội
+- governor (n) /ˈɡʌvərnər/ : uỷ viên hội đồng quản trị
+- administrator (n) /ədˈmɪnɪstreɪtər/ người quản lý, quản trị viên
+- measurable (a) /ˈmeʒərəbl/ : đo lường được; đáng kể, có thể thấy rõ
+- academic achievement (n) /ˌækəˈdemɪk/ : thành tích học tập
+- comprehensive (a) /ˌkɑːmprɪˈhensɪv/ : toàn diện
+- cognition (n) /kɑːɡˈnɪʃn/ : nhận thức
+- call sth into question (v) đặt nghi vấn về cái gì; khiến người ta nghi ngờ tính đúng đắn, độ tin cậy hoặc giá trị của cái gìs
+- constructive (a) /kənˈstrʌktɪv/ : có tính xây dựng
+- literature (n)  /ˈlɪtrətʃʊr/ /ˈlɪt̬.ɚ.ə.tʃɚ/: tài liệu, báo cáo nghiên cứu
+- sentiment (n) /ˈsentɪmənt/ : quan điểm, ý kiến; quan điểm, thái độ, cảm xúc hoặc tình cảm đối với một vấn đề, người hoặc sự việc
+- general secretary (n) /ˈsekrəteri/ : tổng thư ký
+- advisory committee (n) /ədˈvaɪzəri/  /kəˈmɪti/: uỷ ban cố vấn
+- allocate (v) /ˈæləkeɪt/ : phân bổ
+- conclusively (adv) /kənˈkluːsɪvli/ : chắc chắn, thuyết phục
+- causal (a) /ˈkɔːzl/ : có quan hệ nhân quả
+- adverse (a) /ˈædvɜːrs/ /ədˈvɜːrs/: bất lợi, có hại
+- radically (a) /ˈrædɪkli/ : hoàn toàn, triệt để
+- follow suit (v) /ˈfɑːləʊ/ /suːt/ : làm theo, bắt chước
+- framework (n) /ˈfreɪmwɜːrk/ : cơ cấu tổ chức; khuôn khổ, khung, hệ thống nền tảng/cấu trúc cơ bản dùng để tổ chức, phát triển hoặc thực hiện một thứ gì đó
+
+# III. The Snowball Earth Hypothesis
+- snowball Earth (n) /ˈsnəʊbɔːl/ /ɜːrθ/ : Trái Đất Quả Cầu Tuyết — giả thuyết cho rằng trong một số giai đoạn rất xa xưa, Trái Đất từng bị băng bao phủ trên phạm vi cực kỳ rộng, có thể gần như toàn bộ bề mặt
+- hypothesis (n) /haɪˈpɑːθəsɪs/ : giả thiết
+- rage (v) /reɪdʒ/ : diễn ra ác liệt, nổ ra dữ dội
+- plausibility (n) /ˌplɔːzəˈbɪləti/ : tính xác thực; tính hợp lý, tính có vẻ đáng tin, mức độ có khả năng là đúng
+- posit (v) /ˈpɑːzɪt/ : đặt ra, cho rằng; đưa ra, giả định, đặt ra một ý tưởng/lý thuyết/mệnh đề làm cơ sở để lập luận hoặc phân tích
+- pole (n) /pəʊl/ : cực (Trái Đất)
+- equator (n) /ɪˈkweɪtər/ : xích đạo
+- perpetually (adv) /pərˈpetʃuəli/ : liên tục, lặp đi lặp lại, không ngừng nghỉ
+- proposition (n) /ˌprɑːpəˈzɪʃn/ : sự gợi ý, đề xuất; mệnh đề, luận điểm, ý tưởng/đề xuất được đưa ra để xem xét hoặc tranh luận
+- contentious (a) /kənˈtenʃəs/ : gây tranh cãi, gây bất đồng; dễ dẫn đến tranh luận gay gắt
+- proponent (n) /prəˈpəʊnənt/ : người ủng hộ, người đề xướng, người chủ trương một ý tưởng, chính sách, lý thuyết hoặc kế hoạch
+- the Neoproterozoic (n) /ˌniː.oʊˌproʊ.tər.əˈzoʊ.ɪk/ : Đại tân nguyên sinh
+- the Mesoproterozoic (n) /ˌmes.oʊˌproʊ.t̬ɚ.əˈzoʊ.ɪk/ : Đại trung nguyên sinh
+- the Palaeoproterozoic (n) /ˌpæl.i.əʊˌprəʊ.tər.əˈzəʊ.ɪk/ : Đại cổ nguyên sinh
+- foster (v) /ˈfɑːstər/ : nuôi dưỡng
+- sediment (n) /ˈsedɪmənt/ : chất lắng xuống, trầm tích
+- glaciation (n) /ˌɡleɪʃiˈeɪʃn/ : sự đóng băng; sự băng hóa; quá trình hình thành và mở rộng của sông băng/chỏm băng; thời kỳ băng hà
+- deglaciation (n) /diːˌɡleɪʃiˈeɪʃn/ : sự tan băng, sự rút lui/thu hẹp của sông băng và các dải băng; quá trình chuyển từ điều kiện băng hà sang khí hậu ấm hơn
+- deposit (v) /dɪˈpɑːzɪt/ : làm lắng đọng, lắng đọng
+- coin (v) /kɔɪn/ : tạo ra, đặt ra (từ, thuật ngữ)
+- phosphorus (n) /ˈfɑːsfərəs/ : phốt pho
+- banded iron formation (n) /ˌbæn.dɪd ˈaɪɚn fɔːrˌmeɪ.ʃən/ : dải sắt (loại đá trầm tích hình thành trong thời kỳ Tiền Cambri); thành hệ sắt phân dải, một loại đá trầm tích cổ có các lớp giàu sắt xen kẽ với các lớp giàu silica hoặc vật liệu khác.
+- palaeomagnetism (n) /ˌpeɪ.li.oʊˈmæɡ.nə.tɪ.zəm/ : cổ địa từ (môn nghiên cứu dấu vết lưu trữ từ trường Trái Đất trong núi lửa, trầm tích, hoặc các di vật khảo cổ học)
+- continental drift (n) /ˌkɑːntɪˈnentl/ /drɪft/: sự trôi dạt của lục địa
+- skeptical (a) /ˈskeptɪkl/ : hoài nghi
+- plausible (a) /ˈplɔːzəbl/ : hợp lý, nhiều khả năng là đúng, đáng tin cậy
+- plateau (n) /plæˈtəʊ/ : cao nguyên, bình nguyên
+- obliterate (v) /əˈblɪtəreɪt/ : xoá sạch, xoá sổ; phá hủy hoàn toàn, làm biến mất mọi dấu vết của cái gì
+- temperate (a) /ˈtempərət/ : có nhiệt độ ôn hoà; ôn hòa, ôn đới; có khí hậu không quá nóng cũng không quá lạnh
+- adherent (n) /ədˈhɪrənt/ : người ủng hộ
+- oscillate (v) /ˈɑːsɪleɪt/ : dao động, lưỡng lự giữa
+- repercussion (n) /ˌriːpərˈkʌʃn/ : hậu quả, tác hại
+- catastrophic (a) /ˌkætəˈstrɑːfɪk/ : thảm khốc, thảm hoạ

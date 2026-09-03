@@ -1,0 +1,64 @@
+# Các cách diễn đạt dùng khi so sánh
+- **tương ứng = represent**
+- tỷ suất lợi nhuận = profit rate
+- **cộng lại = combine**
+- chi phí quảng cáo = advertising cost
+- loại, lĩnh vực = category
+- chi tiêu = spend
+- sức khoẻ, y tế = health
+- trong khi = whist
+- **số liệu = figure**
+- giá trị = value
+- theo tour du lịch = on tour
+- hơn một nửa = more than half
+- **các vị trí (xếp hạng) phía dưới = on the lower end**
+- máy giặt = washing machine
+- **chiếm, nắm bắt = capture**
+- nhỏ, nhẹ = slight
+- biến động = shift
+# Các cách diễn đạt dùng khi mô tả tỷ lệ
+- **ba phần tư = three-quarters**
+- sinh viên đại học = undergraduate student
+- **học viên cao học = master's degree student**
+- **gấn bốn lần = quadruple**
+- **dự đoán, dự kiến = projection**
+- **áp đảo = overwhelming**
+- sự giảm = reduction
+- khu dân cư = residences
+- không gian xanh = green space
+- máy đo điện áp = voltage measuring device
+- **một chuỗi, một loạt = a series of**
+- dây điện = electrical cable
+- tìm kiếm = seek 
+- **rõ rệt, dễ nhận thấy = markedly (adv)**
+- **hai phần ba = two-thirds**
+- **chiếm = account for**
+- lượng bán ra = sale
+
+# Các cách diễn đạt dùng khi mô tả sự ổn định
+- **duy trì, liên tục = constantly**
+- lợi nhuận = profitability
+- **lượng sử dụng = usage**
+- **giảm mạnh = plunge (v)**
+- thạc sĩ = postgraduate (n)
+- **trong suốt ~ thời gian = over the span of** 
+
+# Check-up
+- chi phí vận hành = operating expense
+- dự kiến = projected (a)
+- doanh thu = revenue
+- sản xuất = manufacturing
+- có lợi nhuận = profitable
+- giảm = fall
+- khu vực công = public sector
+- thịt lợn = pork
+- thịt bò = beef
+- lao động nông nghiệp, nông dân = agricultural worker
+- công viên quốc gia = national park
+- số liệu thống kê = statistics (plural noun)
+- người ăn uống không lành mạnh = unhealthy eater
+- (quỹ, vốn, thời gian) dùng cho việc gì = allocate
+- vận tải biển = ship transport
+- sản lượng kinh tế = economic output
+- bất chấp, mặc dù = despite
+- thất nghiệp = unemployment
