@@ -1,0 +1,66 @@
+# Các cách diễn đạt thể hiện nguyên nhân - kết quả
+1. phản đối = against
+2. quá mức = excessive
+3. tầm quan trọng = significance
+4. tầm quan trọng về mặt lịch sử = historical significance
+5. phù hợp, đúng = correct
+6. sử dụng = utilize
+7. gắn kết tình cảm = bonding
+8. trải nghiệm gắn kết tình cảm = bonding experience
+9. liên tục, không đổi = constantly
+10. di động = cell phone
+11. overly = một cách quá mức
+# Các cách diễn đạt dùng để nêu ví dụ minh hoạ
+12. ngoại hình = appearance
+# Các cách diễn đạt dùng khi trích dẫn
+13. Trung tâm Kiểm soát Bệnh tật = Center for Disease Control
+14. kế hoạch = initiative
+15. chiến đấu = combat
+16. béo phì = obesity
+17. nhỏ, rất nhỏ = subtle
+18. khiến cho = induce
+19. ôn tập ... = go over ...
+# Các cách diễn đạt để giới thiệu và diễn giải
+20. truyền đạt (thông tin) = convey
+21. face-to-face communication = đối thoại trực tiếp
+22. bị căng thẳng = get stressed out
+23. cha mẹ đi làm = working parents
+24. nhà trẻ = daycare facility
+25. lạm dụng, sử dụng quá đà = overused
+26. ưu đãi, ưu thế = preferential treatment
+27. phóng đại = magnify
+28. sự lựa chọn = alternative
+29. tìm được = obtain
+30. phòng trong góc = corner room
+31. khả năng, năng lực = ability
+32. giảm đi, yếu hơn = diminish
+33. vượt qua = overcome
+34. khó khăn = hardship
+35. mở rộng, trải rộng = spread out
+36. động lực = motivation
+37. hưởng lợi = benefit
+38. đảm bảo = ensure
+# Check-up
+1. thám hiểm vũ trụ = space exploration
+2. hợp lý = justified
+3. chu đáo, quan tâm = considerate
+4. có xu hướng ... = tend to ~
+5. ít nhất = at least
+6. thay vì ... = instead of ...
+7. việc nhà = household chores
+8. tinh thần trách nhiệm = sense of responsibility
+9. giải quyết = address
+10. (mang tính) chuyên môn = professional
+11. sự tuyển sinh, nhận vào = admission
+12. cạnh tranh = competitive
+13. giới hạn = limit
+14. sự chăm chỉ = diligence
+15. cần thiết = essential
+16. thành công trong ... = be successful in ...
+17. công nghệ hạt nhân = nuclear science
+18. giải pháp năng lượng = energy solution
+19. mắc lỗi = make mistakes
+20. để (làm gì) = in order to ~
+21. thích hơn = prefer
+22. ngoài khuôn viên trường = off-campus housing
+23. học (nhập học) đại học = enter university

@@ -1,0 +1,69 @@
+# Các cách diễn đạt thể hiện điều kiện
+1. tài năng thiên phú = natural talent
+2. xác định = determine
+3. lắp đặt, cài đặt = install
+4. vận hành = operate
+5. chi phí bảo dưỡng = maintenance cost
+6. tỉ lệ thất nghiệp = unemployment rate
+7. nhạc cụ = musical instrument
+8. kiểm tra bằng máy phát hiện nói dối = lie detector test
+9. đáng tin cậy = reliable
+10. nhiệt tình, hăng hái = enthusiastic 
+11. học kỳ = term
+12. lĩnh vực = field
+13. truyền cảm hứng = inspire
+14. chấm điểm, cho điểm = grade
+15. thể hiện bản thân = express myself
+16. thỉnh thoảng/đôi khi = once in a while
+17. có nguy cơ = risk
+18. điểm trượt = failing mark
+# Các cách diễn đạt sự giả định
+19. máy in = printing press
+20. bắt buộc, mang tính nghĩa vụ = mandatory
+21. thể dục = physical education
+22. thời thơ ấu = childhood
+# Các cách diễn đạt thể hiện sự nhượng bộ
+23. fold memory of sth (phr.) /ˌfɑːnd ˈmeməri əv/ : **kỷ niệm đẹp, ký ức đáng nhớ/đáng trân trọng về điều gì**, một ký ức trong quá khứ khiến người ta cảm thấy vui vẻ, ấm áp hoặc trìu mến khi nhớ lại.
+24. thải ra = emit
+# Các cách diễn đạt thể hiện sự tóm tắt
+25. cần thiết = essential
+26. đáng tin cậy = trustworthy
+27. chu đáo = caring
+28. đánh giá = judge
+29. vẻ bề ngoài, diện mạo = physical appearance
+30. chứng minh = prove
+31. xứng đáng = deserve
+32. quyền = authority
+33. **doanh nghiệp lớn = major corporation**
+34. mô tả, thể hiện = portray
+35. có lợi = favorable
+36. cân nhắc/cẩn thận = selective
+37. trung thành = loyal
+38. biết hợp tác = cooperative
+39. học phí = tuition
+40. cắt giảm = cut back
+# Check-up
+1. vô giá = invaluable
+2. chăm chỉ = diligence
+3. quản lý thời gian = time management
+4. sử dụng = utilize
+5. đúng = correct
+6. giải quyết = resolve
+7. hợp đồng = contract
+8. chính sách = policy
+9. suy thoái = downturn
+10. kinh tế khu vực = regional economy
+11. kiếm được lợi nhuận = turn a profit
+12. làm thêm = part-time job
+13. chiếm (thời gian, vị trí) = take up
+14. người bình thường = average person
+15. bình quân, trung bình = average
+16. châu lục = continent
+17. lập kế hoạch = planning
+18. yếu tố = component
+19. sở thích = preference
+20. tình yêu thương = affection
+21. để (làm gì) = in order to ~
+22. tính cách lành mạnh = healthy personality
+23. khoá học đào tạo = training course
+24. đang diễn ra, hiện có = ongoing
