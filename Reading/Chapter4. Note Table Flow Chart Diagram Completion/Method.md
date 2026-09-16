@@ -21,6 +21,19 @@ Các dạng:
 	- Yêu cầu điền tên của một bộ phận đặc biệt
 	- Hoàn thành biểu đồ giải thích các bộ phận đặc biệt đó
 ## Chiến thuật làm bài
-Bước 1: Xác định **cụm từ khoá** và **nội dung** của **câu đưa ra**
-Bước 2: **Tìm trong bài đọc** **đoạn** có **nội dung liên quan** đến **cụm từ khoá** vừa xác định
-Bước 3: Xác định xem **đoạn gợi ý cho đáp án** và **câu đưa ra** có **đồng nhất không**
+Bước 1: Đọc **đề bài** rồi xác định **cụm từ khoá** và **nội dung của đoạn cần điền từ**
+1. Kiểm tra **số lượng** **từ** và **số** cần điền vào chỗ trống
+2. Xác định **nội dung chính** của **ghi chú/bảng/sơ đồ/biểu đồ**
+	- Kiểm tra **tiêu đề**
+	- Kiểm tra **các đề mục** (ghi chú)
+	- Kiểm tra thông tin trong **cột đầu tiên** và **dòng trên cùng** (bảng)
+3. Xác định **nội dung cần điền** dựa vào **cụm từ khoá** và phần **nội dung xung quanh chỗ trống**. Cần đọc kĩ **đoạn trước** và **sau chỗ trống** để điền câu trả lời **đúng ngữ pháp**.
+
+Bước 2: Tìm trong **bài đọc** phần liên quan đến **nội dung đoạn cần điền từ** và tìm **gợi ý** cho **đáp án**
+1. Áp dụng kỹ thuật **Scanning** để tìm trong bài đọc **phần có liên quan** đến **nội dung đoạn cần điền từ** đã xác định nhờ **tiêu đề** hoặc **đề mục** của **ghi chú/bảng/sơ đồ/biểu đồ**.
+2. Tìm phần **đề cập trực tiếp** đến **cụm từ khoá** hoặc **phần diễn giải lại cụm từ** đó để xác định **gợi ý** cho **câu trả lời**.
+
+Bước 3: Chọn đáp án phù hợp điền vào chỗ trống và kiểm tra độ chính xác của đáp án
+1. Áp dụng kỹ thuật **Scanning** để tìm trong bài đọc phần có liên quan đến **nội dung đoạn cần điền từ** đã xác định qua **tiêu đề** hoặc **đề mục** của **ghi chú/bảng/sơ đồ/biểu đồ.**
+2. Tìm phần **đề cập trực tiếp** đến **cụm từ khoá** hoặc **phần diễn giải lại cụm từ** đó để xác định **gợi ý** cho **câu trả lời**.
+3. Điền từ theo đúng số từ, (các) từ đó phải có mặt trong bài đọc (có thể khác cách chia thì, số ít số nhiều, ...)
