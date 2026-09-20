@@ -100,6 +100,102 @@
 21. **shaded (a)** /ˈʃeɪdɪd/ : **được che bóng, nằm trong bóng râm; có màu tối hơn**, tùy ngữ cảnh.
 22. **reproductive duty (n)** /ˌriːprəˈdʌktɪv ˈduːti/ : **vai trò/nhiệm vụ sinh sản**, phần trách nhiệm hoặc chức năng mà một cá thể đảm nhận trong quá trình sinh sản.
 23. **be meant for (phr.)** /bi ˈment fɔːr/ : **được dành cho, được thiết kế nhằm, có mục đích dành cho**, dùng khi một vật, hành động hoặc vai trò có mục đích cụ thể.
+# Section 5 
+1. **embed (v)** /ɪmˈbed/ : **gắn chặt, cắm/ấn sâu vào, nhúng vào**, làm cho một vật nằm chắc bên trong một vật hoặc cấu trúc khác.
+2. **captivity (n)** /kæpˈtɪvəti/ : **sự giam giữ, tình trạng nuôi nhốt**, trạng thái bị giữ và không được tự do, đặc biệt với động vật.
+3. **excavation (n)** /ˌekskəˈveɪʃən/ : **sự khai quật, việc đào bới**, đặc biệt trong khảo cổ học để tìm di vật hoặc công trình cổ.
+4. **uncover (v)** /ʌnˈkʌvər/ : **phát hiện, khám phá ra; làm lộ ra**, tìm thấy điều trước đó bị che giấu hoặc chưa được biết đến.
+5. **menagerie (n)** /məˈnædʒəri/ : **bộ sưu tập thú nuôi/động vật, vườn thú tư nhân**, tập hợp nhiều loài động vật, thường là loài lạ hoặc quý hiếm.
+6. **expedition (n)** /ˌekspəˈdɪʃən/ : **cuộc thám hiểm, chuyến khảo sát; cuộc viễn chinh**, chuyến đi được tổ chức vì mục đích nghiên cứu, khám phá hoặc quân sự.
+7. **reputed (a)** /rɪˈpjuːtɪd/ : **được cho là, được đồn là; nổi tiếng là**, thường dùng khi thông tin dựa trên danh tiếng hoặc lời truyền lại.
+8. **usher in (phr.v)** /ˌʌʃər ˈɪn/ : **mở ra, báo hiệu/đánh dấu sự khởi đầu của**, khiến một thời kỳ hoặc thay đổi mới bắt đầu.
+9. **inaugurate (v)** /ɪˈnɔːɡjəreɪt/ : **khai trương, khánh thành; mở đầu**, chính thức bắt đầu một thời kỳ, hoạt động hoặc công trình.
+10. **consign (v)** /kənˈsaɪn/ : **gửi, giao, chuyển vào**, đưa một người/vật đến một nơi hoặc tình trạng nào đó; _consign sth to history_ = **đưa thứ gì vào quá khứ/lịch sử**.
+11. **whilst (conj.)** /waɪlst/ : **trong khi, trong lúc; trong khi đó/mặc dù**, tương đương _while_, phổ biến hơn trong Anh-Anh.
+12. **be embedded in (phr.)** /bi ɪmˈbedɪd ɪn/ : **được gắn/chôn sâu trong; ăn sâu vào**, nằm chắc bên trong một vật, hệ thống hoặc văn hóa.
+13. **animal captivity (n)** /ˌænɪml kæpˈtɪvəti/ : **tình trạng nuôi nhốt động vật**, việc động vật sống dưới sự kiểm soát của con người thay vì trong tự nhiên.
+14. **span back (phr.)** /ˌspæn ˈbæk/ : **trải dài ngược về quá khứ, có lịch sử kéo dài từ...** ⚠️ Cụm tự nhiên hơn thường là **date back**, **go back**, hoặc **span centuries/years**.
+15. **remnant (n)** /ˈremnənt/ : **tàn tích, phần còn sót lại, di tích**, phần nhỏ còn lại của một thứ từng lớn hơn hoặc hoàn chỉnh hơn.
+16. **baboon (n)** /bəˈbuːn/ : **khỉ đầu chó**, loài linh trưởng lớn sống chủ yếu ở châu Phi.
+17. **wildcat (n)** /ˈwaɪldkæt/ : **mèo hoang dã**, loài mèo sống tự nhiên trong môi trường hoang dã; cũng có thể mang nghĩa bóng trong một số ngữ cảnh.
+18. **point to (phr.v)** /ˈpɔɪnt tuː/ : **chỉ ra, cho thấy, là dấu hiệu của**, cung cấp bằng chứng hoặc gợi ý về một kết luận.
+19. **present-day (a)** /ˌpreznt ˈdeɪ/ : **ngày nay, hiện nay, đương đại**, thuộc thời hiện tại.
+20. **assortment (n)** /əˈsɔːrtmənt/ : **tập hợp đa dạng, nhiều loại khác nhau**, một nhóm gồm nhiều vật hoặc cá thể không hoàn toàn giống nhau.
+21. **house (v)** /haʊz/ : **chứa, nuôi giữ, cung cấp chỗ ở cho**, dùng một tòa nhà hoặc cơ sở để chứa người, động vật hoặc đồ vật.
+22. **botanical garden (n)** /bəˌtænɪkl ˈɡɑːrdn/ : **vườn bách thảo, vườn thực vật**, nơi trồng và bảo tồn nhiều loài thực vật phục vụ nghiên cứu, giáo dục hoặc tham quan.
+23. **aquarium (n)** /əˈkweriəm/ : **bể thủy sinh; thủy cung**, bể hoặc cơ sở dùng để nuôi và trưng bày động vật, thực vật thủy sinh.
+24. **scientific observation (n)** /ˌsaɪənˈtɪfɪk ˌɑːbzərˈveɪʃən/ : **quan sát khoa học**, việc quan sát có hệ thống nhằm thu thập dữ liệu hoặc bằng chứng khoa học.
+25. **natural habitat (n)** /ˌnætʃərəl ˈhæbɪtæt/ : **môi trường sống tự nhiên**, nơi một loài sinh vật sống và phát triển trong tự nhiên.
+26. **archaeological dig (n)** /ˌɑːrkiəˈlɑːdʒɪkl ˈdɪɡ/ : **cuộc/khu khai quật khảo cổ**, địa điểm hoặc hoạt động đào bới có hệ thống để tìm và nghiên cứu di vật.
+27. **exotic (a)** /ɪɡˈzɑːtɪk/ : **ngoại lai, kỳ lạ, hiếm lạ**, có nguồn gốc từ một vùng xa hoặc khác biệt rõ so với những gì quen thuộc.
+28. **scare (v)** /sker/ : **làm sợ, khiến hoảng sợ**, làm cho ai hoặc con vật cảm thấy sợ hãi.
+29. **the Enlightenment (n)** /ði ɪnˈlaɪtnmənt/ : **Thời kỳ Khai sáng / phong trào Khai sáng**, phong trào trí thức ở châu Âu thế kỷ 17–18 nhấn mạnh lý trí, khoa học và tư tưởng cải cách.
+30. **remain (n)** /rɪˈmeɪn/ : ⚠️ **remain** hầu như không dùng như danh từ trong tiếng Anh hiện đại. Dạng danh từ thường dùng là **remains (n)** /rɪˈmeɪnz/ : **phần còn lại, tàn tích, di hài**, tùy ngữ cảnh.
+# Section 6
+1. **otter (n)** /ˈɑːtər/ : **con rái cá**, động vật có vú sống gần hoặc trong nước, có thân dài và chân thích nghi với bơi lội.
+2. **elongated (a)** /ɪˈlɔːŋɡeɪtɪd/ /ˈiːlɒŋɡeɪtɪd/: **thon dài, kéo dài**, có hình dạng dài hơn bình thường so với chiều rộng.
+3. **stubby (a)** /ˈstʌbi/ : **ngắn và mập/dày, cụt**, ngắn hơn bình thường và thường khá to hoặc chắc.
+4. **traverse (v)** /trəˈvɜːrs/ : **đi qua, băng qua, di chuyển qua**, đi từ phía này sang phía khác của một khu vực hoặc địa hình.
+5. **dexterity (n)** /dekˈsterəti/ : **sự khéo léo, độ linh hoạt**, đặc biệt là khả năng sử dụng tay hoặc cơ thể một cách chính xác và nhanh nhẹn.
+6. **lucrative (a)** /ˈluːkrətɪv/ : **sinh lợi, đem lại nhiều lợi nhuận**, tạo ra nhiều tiền hoặc lợi ích tài chính.
+7. **abate (v)** /əˈbeɪt/ : **giảm bớt, dịu đi**, trở nên ít mạnh, ít nghiêm trọng hoặc ít dữ dội hơn.
+8. **bring about (phr.v)** /ˌbrɪŋ əˈbaʊt/ : **gây ra, dẫn đến, làm cho xảy ra**, khiến một sự thay đổi hoặc kết quả xuất hiện.
+9. **ravage (v)** /ˈrævɪdʒ/ : **tàn phá, phá hủy nghiêm trọng**, gây thiệt hại rất lớn cho một khu vực hoặc cộng đồng.
+10. **accord (n)** /əˈkɔːrd/ : **hiệp định, thỏa thuận**, đặc biệt là thỏa thuận chính thức giữa các quốc gia hoặc tổ chức.
+11. **impose a ban on (phr.)** /ɪmˌpoʊz ə ˈbæn ɑːn/ : **ban hành/áp đặt lệnh cấm đối với**, chính thức cấm một hoạt động hoặc sản phẩm.
+12. **substantial (a)** /səbˈstænʃəl/ : **đáng kể, lớn, quan trọng**, có quy mô, mức độ hoặc ảnh hưởng tương đối lớn.
+13. **poaching (n)** /ˈpoʊtʃɪŋ/ : **nạn săn bắt trái phép**, việc săn, bắt hoặc giết động vật hoang dã trái pháp luật.
+14. **vigilance (n)** /ˈvɪdʒələns/ /ˈvɪdʒɪləns/: **sự cảnh giác, sự chú ý cao độ**, trạng thái luôn để ý để phát hiện nguy hiểm hoặc hành vi sai trái.
+15. **webbed (a)** /webd/ : **có màng**, đặc biệt là có màng nối giữa các ngón chân để hỗ trợ bơi; _webbed feet_ = **chân có màng**.
+16. **underwater (a)** /ˌʌndərˈwɔːtər/ : **dưới nước, diễn ra hoặc tồn tại dưới mặt nước**.
+17. **international accord (n)** /ˌɪntərˈnæʃənəl əˈkɔːrd/ : **hiệp định quốc tế**, thỏa thuận chính thức giữa nhiều quốc gia.
+18. **Pacific (n/a)** /pəˈsɪfɪk/ : **(n) Thái Bình Dương; (a) thuộc Thái Bình Dương**.
+19. **renewed (a)** /rɪˈnuːd/ /rɪˈnjuːd/: **được khôi phục, được làm mới, tăng trở lại**, bắt đầu lại hoặc trở nên mạnh hơn sau một thời gian suy giảm.
+20. **renowned (a)** /rɪˈnaʊnd/ : **nổi tiếng, lừng danh**, được nhiều người biết đến và đánh giá cao vì một phẩm chất hoặc thành tựu.
+21. **spell (n)** /spel/ : **một khoảng thời gian**, thường là một giai đoạn tương đối ngắn có một đặc điểm cụ thể; _a cold spell_ = **một đợt lạnh**.
+22. **hunter (n)** /ˈhʌntər/ : **thợ săn, người đi săn**, người săn động vật.
+23. **glossy (a)** /ˈɡlɑːsi/ : **bóng, láng, óng**, có bề mặt nhẵn và phản chiếu ánh sáng.
+# Section 7
+1. **manual labour (n)** /ˌmænjuəl ˈleɪbər/ : **lao động chân tay**, công việc đòi hỏi chủ yếu sức lực thể chất hơn là công việc trí óc. _(US: manual labor)_
+2. **organic material (n)** /ɔːrˌɡænɪk məˈtɪriəl/ : **vật liệu/chất hữu cơ**, vật chất có nguồn gốc từ sinh vật hoặc chứa các hợp chất hữu cơ.
+3. **abundant (a)** /əˈbʌndənt/ : **phong phú, dồi dào**, tồn tại với số lượng lớn.
+4. **constraint (n)** /kənˈstreɪnt/ : **sự hạn chế, điều ràng buộc**, yếu tố giới hạn những gì có thể làm hoặc đạt được. 
+5. **steam engine (n)** /ˈstiːm ˌendʒɪn/ : **động cơ hơi nước**, động cơ sử dụng hơi nước để tạo ra chuyển động cơ học.
+6. **driving force (n)** /ˈdraɪvɪŋ fɔːrs/ : **động lực chính, lực thúc đẩy**, yếu tố có ảnh hưởng mạnh làm cho một quá trình hoặc thay đổi xảy ra.
+7. **textile (n)** /ˈtekstaɪl/ : **vải dệt, hàng dệt**, vật liệu được tạo ra bằng cách dệt, đan hoặc xử lý sợi; cũng có thể dùng như tính từ trong _textile industry_.
+8. **cam (n)** /kæm/ : **cam, đĩa cam**, bộ phận máy có hình dạng đặc biệt dùng để biến chuyển động quay thành chuyển động qua lại hoặc thay đổi dạng chuyển động. 
+9. **horsepower (n)** /ˈhɔːrspaʊər/ : **mã lực**, đơn vị đo công suất, đặc biệt của động cơ.
+10. **locomotive (n)** /ˌloʊkəˈmoʊtɪv/ /ˌləʊkəˈməʊtɪv/: **đầu máy xe lửa, đầu máy tàu hỏa**, phương tiện tạo lực kéo cho đoàn tàu.
+11. **outskirts (n)** /ˈaʊtskɜːrts/ : **vùng ngoại ô, vùng rìa thành phố**, khu vực nằm ở phía ngoài của một thành phố hoặc thị trấn. ⚠️ Thường dùng dạng số nhiều **outskirts**, không phải _outskirt_.
+12. **eye-opening (a)** /ˈaɪ ˌoʊpənɪŋ/ : **mở mang tầm mắt, khiến nhận ra điều mới hoặc bất ngờ**, cung cấp thông tin làm thay đổi cách nhìn. ⚠️ Không đơn thuần là “đầy kỳ thú”.
+13. **literacy rate (n)** /ˈlɪtərəsi reɪt/ : **tỷ lệ biết chữ**, tỷ lệ dân số có khả năng đọc và viết ở một mức nhất định.
+14. **skyrocket (v)** /ˈskaɪrɑːkɪt/ : **tăng vọt, tăng đột biến**, tăng rất nhanh lên mức cao.
+15. **churn out (phr.v)** /ˌtʃɜːrn ˈaʊt/ : **sản xuất hàng loạt với tốc độ cao**, thường nhấn mạnh số lượng lớn và quá trình lặp lại.
+16. **contemporary (a)** /kənˈtempəreri/ : **đương thời, hiện đại; cùng thời**, thuộc thời hiện tại hoặc cùng tồn tại trong một thời kỳ.
+17. **spur (v)** /spɜːr/ : **thúc đẩy, kích thích**, khiến một hoạt động hoặc sự phát triển diễn ra nhanh hơn.
+18. **fuel (v)** /ˈfjuːəl/ : **thúc đẩy, tiếp sức, làm gia tăng**, cung cấp động lực cho một quá trình; nghĩa đen là **cung cấp nhiên liệu**.
+19. **spectacular growth (n)** /spekˌtækjələr ˈɡroʊθ/ : **sự tăng trưởng ngoạn mục, tăng trưởng rất mạnh**, mức tăng trưởng lớn và gây ấn tượng.
+20. **watermill (n)** /ˈwɔːtərmɪl/ : **cối xay nước, máy xay chạy bằng sức nước**, thiết bị sử dụng dòng nước để tạo năng lượng cơ học.
+21. **waterpower (n)** /ˈwɔːtərˌpaʊər/ : **sức nước, thủy năng**, năng lượng thu được từ nước chảy hoặc nước rơi.
+22. **geographical constraint (n)** /ˌdʒiːəˈɡræfɪkl kənˈstreɪnt/ : **hạn chế về địa lý**, yếu tố địa hình, vị trí hoặc khoảng cách làm giới hạn hoạt động hay phát triển.
+23. **commercial enterprise (n)** /kəˌmɜːrʃəl ˈentərpraɪz/ : **doanh nghiệp thương mại, hoạt động kinh doanh**, tổ chức hoặc hoạt động nhằm tạo ra lợi nhuận.
+24. **textile machine (n)** /ˈtekstaɪl məˌʃiːn/ : **máy dệt/máy móc ngành dệt**, thiết bị dùng để kéo sợi, dệt hoặc xử lý hàng dệt.
+25. **steam power (n)** /ˈstiːm ˌpaʊər/ : **năng lượng hơi nước, sức hơi nước**, năng lượng cơ học được tạo ra nhờ hơi nước.
+26. **lever (n)** /ˈlevər/ : **đòn bẩy, cần gạt**, thanh cứng quay quanh một điểm tựa để truyền hoặc khuếch đại lực.
+27. **gear (n)** /ɡɪr/ : **bánh răng; bộ truyền bánh răng**, bộ phận có răng dùng để truyền chuyển động hoặc lực giữa các trục.
+28. **mechanical power (n)** /məˌkænɪkl ˈpaʊər/ : **công suất/năng lượng cơ học**, năng lượng hoặc công suất được truyền qua chuyển động của máy móc.
+29. **boiler (n)** /ˈbɔɪlər/ : **nồi hơi, lò hơi**, thiết bị đun nước để tạo hơi nước.
+30. **give life to (phr.)** /ˌɡɪv ˈlaɪf tuː/ : **thổi sức sống vào, làm cho hoạt động/phát triển**, khiến một ý tưởng, máy móc hoặc hệ thống trở nên sinh động hoặc hoạt động được.
+31. **industrialist (n)** /ɪnˈdʌstriəlɪst/ : **nhà công nghiệp, chủ doanh nghiệp công nghiệp**, người sở hữu hoặc quản lý các doanh nghiệp công nghiệp lớn.
+32. **finished product (n)** /ˌfɪnɪʃt ˈprɑːdʌkt/ : **thành phẩm**, sản phẩm đã hoàn tất quá trình sản xuất và sẵn sàng để bán hoặc sử dụng.
+33. **unreachable area (n)** /ʌnˌriːtʃəbl ˈeriə/ : **khu vực khó/không thể tiếp cận**, nơi không thể hoặc rất khó đến được.
+34. **zoom into (phr.v)** /ˌzuːm ˈɪntuː/ : **lao nhanh vào, phóng nhanh vào** một nơi nào đó.
+35. **production plant (n)** /prəˈdʌkʃən plænt/ : **nhà máy sản xuất, cơ sở sản xuất**, nơi hàng hóa được chế tạo hoặc xử lý.
+36. **residential area (n)** /ˌrezɪˈdenʃəl ˈeriə/ : **khu dân cư**, khu vực chủ yếu dành cho nhà ở.
+37. **tightly controlled (a)** /ˌtaɪtli kənˈtroʊld/ : **được kiểm soát chặt chẽ**, chịu sự quản lý hoặc hạn chế nghiêm ngặt.
+38. **draw to a close (phr.)** /ˌdrɔː tu ə ˈkloʊz/ : **dần đi đến hồi kết, sắp kết thúc**, tiến gần đến điểm kết thúc.
+39. **contemporary existence (n)** /kənˌtempəreri ɪɡˈzɪstəns/ : **đời sống/sự tồn tại đương đại**, trạng thái sống hoặc tồn tại trong xã hội hiện đại.
+40. **factory work (n)** /ˈfæktəri wɜːrk/ : **công việc nhà máy, lao động trong nhà máy**, công việc thực hiện trong môi trường sản xuất công nghiệp.
 # Section 8 - Our Vanishing Rainforests
 1. **under siege (phr.)** /ˌʌndər ˈsiːdʒ/ : **bị bao vây; chịu sức ép hoặc bị đe dọa nghiêm trọng**, theo nghĩa đen là bị lực lượng đối phương bao vây, nghĩa bóng là chịu áp lực liên tục.
 2. **indispensable (a)** /ˌɪndɪˈspensəbl/ : **không thể thiếu, thiết yếu**, quá quan trọng đến mức không thể thiếu được.
@@ -135,7 +231,8 @@
 32. **immediate problem (n)** /ɪˌmiːdiət ˈprɑːbləm/ : **vấn đề trước mắt, vấn đề cấp thời**, vấn đề cần được giải quyết ngay hoặc trong tương lai rất gần.
 33. **financial assistance (n)** /faɪˌnænʃəl əˈsɪstəns/ : **hỗ trợ tài chính**, tiền hoặc nguồn lực tài chính được cung cấp để giúp một cá nhân, tổ chức hoặc dự án.
 34. **utmost (a)** /ˈʌtməʊst/: **tối đa, cao nhất, lớn nhất**, thường dùng trong _of the utmost importance_ = **có tầm quan trọng tối cao**. = uttermost (a)
-35. knock-on (a)
+35. **knock-on (a)** /ˈnɑːk ɑːn/ : **dây chuyền, kéo theo, phát sinh tiếp theo**, dùng để mô tả một ảnh hưởng hoặc hậu quả xảy ra **do một sự việc trước đó gây ra**; _knock-on effect_ = **hiệu ứng dây chuyền / tác động kéo theo**.
+
 # Session 9 - Shaping America: The Erie Canal
 1. **the Great Lakes (n)** /ðə ˌɡreɪt ˈleɪks/ : **Ngũ Đại Hồ**, năm hồ nước ngọt lớn ở biên giới Hoa Kỳ–Canada: Superior, Michigan, Huron, Erie và Ontario.
 2. **canal (n)** /kəˈnæl/ : **kênh đào**, đường thủy nhân tạo được xây để vận chuyển, tưới tiêu hoặc dẫn nước.
@@ -147,10 +244,10 @@
 8. **skyrocket (v)** /ˈskaɪrɑːkɪt/ : **tăng vọt, tăng đột biến**, tăng rất nhanh lên mức cao.
 9. **commodity (n)** /kəˈmɑːdəti/ : **hàng hóa, mặt hàng nguyên liệu**, đặc biệt là sản phẩm cơ bản như ngũ cốc, dầu, kim loại.
 10. **on a daily basis (phr.)** /ɑːn ə ˌdeɪli ˈbeɪsɪs/ : **hằng ngày, mỗi ngày**.
-11. **revenue (n)** /ˈrevənuː/ : **doanh thu; nguồn thu**, tiền mà doanh nghiệp, tổ chức hoặc chính phủ nhận được từ hoạt động, thuế, phí... ⚠️ Không chỉ dùng cho ngân sách nhà nước.
+11. **revenue (n)** /ˈrevənuː/ : **doanh thu; nguồn thu**, tiền mà doanh nghiệp, tổ chức hoặc chính phủ nhận được từ hoạt động, thuế, phí... 
 12. **toll (n)** /toʊl/ : **phí cầu đường, phí sử dụng đường/kênh/cầu**, khoản tiền phải trả để sử dụng một tuyến giao thông hoặc công trình.
 13. **coffer (n)** /ˈkɔːfər/ : **kho bạc, quỹ tiền**, đặc biệt trong _government/public coffers_ = **ngân khố/quỹ công**.
-14. **disembark (v)** /ˌdɪsɪmˈbɑːrk/ : **rời tàu, xuống tàu/máy bay/thuyền**, bước ra khỏi phương tiện sau khi đến nơi. ⚠️ Không phải “cập bến”.
+14. **disembark (v)** /ˌdɪsɪmˈbɑːrk/ : **rời tàu, xuống tàu/máy bay/thuyền**, bước ra khỏi phương tiện sau khi đến nơi. 
 15. **boom town (n)** /ˈbuːm taʊn/ : **thị trấn/thành phố phát triển bùng nổ**, nơi dân số và kinh tế tăng nhanh trong thời gian ngắn.
 16. **venture (v)** /ˈventʃər/ : **mạo hiểm đi, tiến vào, đi đến một nơi chưa quen**, đặc biệt khi có yếu tố rủi ro hoặc không chắc chắn.
 17. **breadbasket (n)** /ˈbredbæskɪt/ : **vựa lúa/vùng sản xuất lương thực chính**, khu vực cung cấp lượng lớn nông sản cho nơi khác.
@@ -174,3 +271,71 @@
 35. **coupled with (phr.)** /ˈkʌpld wɪð/ : **kết hợp với, cùng với**, dùng khi hai yếu tố cùng tác động hoặc xuất hiện.
 36. **disembark (v)** /ˌdɪsɪmˈbɑːrk/ : **xuống/rời tàu, thuyền hoặc máy bay** sau khi đến nơi.
 37. **agricultural industry (n)** /ˌæɡrɪˈkʌltʃərəl ˈɪndəstri/ : **ngành nông nghiệp**, lĩnh vực kinh tế liên quan đến sản xuất, chế biến hoặc kinh doanh sản phẩm nông nghiệp.
+
+# Section 10 - Dark Matter
+1. **dark matter (n)** /ˌdɑːrk ˈmætər/ : **vật chất tối**, dạng vật chất chưa quan sát trực tiếp được bằng ánh sáng nhưng được suy ra từ tác động hấp dẫn của nó trong vũ trụ.
+2. **substantiate (v)** /səbˈstænʃieɪt/ : **chứng minh, xác nhận bằng bằng chứng**, đưa ra bằng chứng để hỗ trợ một nhận định hay giả thuyết.
+3. **mass (n)** /mæs/ : **khối lượng; khối/đám**, lượng vật chất của một vật; cũng có thể chỉ một khối lớn gồm nhiều vật tụ lại.
+4. **velocity (n)** /vəˈlɑːsəti/ : **vận tốc**, tốc độ chuyển động có tính đến **hướng**. ⚠️ _Speed_ = tốc độ; _velocity_ = vận tốc.
+5. **elusive (a)** /iˈluːsɪv/ : **khó nắm bắt, khó phát hiện, khó xác định**, không dễ tìm thấy, hiểu hoặc chứng minh.
+6. **filament (n)** /ˈfɪləmənt/ : **sợi mảnh, cấu trúc dạng sợi**, một cấu trúc dài và rất mảnh.
+7. **weave (v)** /wiːv/ : **dệt, đan kết**, kết hợp nhiều sợi hoặc thành phần lại thành một cấu trúc.
+8. **connective tissue (n)** /kəˌnektɪv ˈtɪʃuː/ : **mô liên kết**, mô có chức năng nâng đỡ, kết nối hoặc bảo vệ các mô và cơ quan khác.
+9. **cosmologist (n)** /kɑːzˈmɑːlədʒɪst/ : **nhà vũ trụ học**, nhà khoa học nghiên cứu nguồn gốc, cấu trúc và sự tiến hóa của vũ trụ.
+10. **subatomic particle (n)** /ˌsʌbəˈtɑːmɪk ˈpɑːrtɪkl/ : **hạt hạ nguyên tử**, hạt nhỏ hơn nguyên tử, chẳng hạn electron, proton hoặc neutron.
+11. **halo (n)** /ˈheɪloʊ/ : **quầng, vùng bao quanh**, trong thiên văn học có thể chỉ vùng vật chất bao quanh một thiên hà, như _dark matter halo_ = **quầng vật chất tối**.
+12. **luminosity (n)** /ˌluːmɪˈnɑːsəti/: **độ trưng, độ sáng nội tại**, tổng năng lượng bức xạ mà một thiên thể phát ra trong một đơn vị thời gian. ⚠️ Khác với độ sáng quan sát được từ Trái Đất.
+13. **theorise (v)** /ˈθiːəraɪz/ : **đưa ra/xây dựng lý thuyết, giả thuyết hóa**, đề xuất cách giải thích dựa trên lý luận hoặc bằng chứng. _(US: theorize)_
+14. **clump together (phr.v)** /ˌklʌmp təˈɡeðər/ : **tụ lại, kết thành cụm**, tập hợp thành các nhóm hoặc khối.
+15. **Large Hadron Collider (n)** /ˌlɑːrdʒ ˈhædrɑːn kəˌlaɪdər/ : **Máy Va chạm Hadron Lớn (LHC)**, máy gia tốc hạt dùng để cho các hạt năng lượng cao va chạm nhằm nghiên cứu vật lý hạt.
+16. **consensus (n)** /kənˈsensəs/ : **sự đồng thuận, sự nhất trí chung**, sự đồng ý rộng rãi giữa các thành viên của một nhóm.
+17. **distort (v)** /dɪˈstɔːrt/ : **làm biến dạng, bóp méo**, làm thay đổi hình dạng, tín hiệu hoặc cách một thứ được nhìn nhận.
+18. **optical illusion (n)** /ˌɑːptɪkl ɪˈluːʒən/ : **ảo giác thị giác**, hình ảnh hoặc hiện tượng khiến mắt và não nhận thức khác với thực tế vật lý.
+19. **chart (v)** /tʃɑːrt/ : **lập biểu đồ, lập bản đồ, ghi lại có hệ thống**, thể hiện vị trí, sự thay đổi hoặc tiến trình bằng biểu đồ/bản đồ.
+20. **gravitational pull (n)** /ˌɡrævɪˈteɪʃənəl ˈpʊl/ : **lực hút hấp dẫn**, lực hút do hấp dẫn tác động giữa các vật có khối lượng.
+21. **gravitational force (n)** /ˌɡrævɪˈteɪʃənəl ˈfɔːrs/ : **lực hấp dẫn**, lực hút giữa các vật thể có khối lượng.
+22. **unheard (a)** /ʌnˈhɜːrd/ : **chưa từng nghe thấy, không được nghe thấy**. Thường gặp hơn trong **unheard of** = **chưa từng có/được biết đến**.
+23. **outlying (a)** /ˈaʊtlaɪɪŋ/ : **ở xa trung tâm, nằm ở vùng ngoài**, chẳng hạn _outlying stars/regions_ = **các ngôi sao/vùng ở rìa ngoài**.
+24. **surmise (v)** /sərˈmaɪz/ : **suy đoán, phỏng đoán**, đưa ra kết luận khi chưa có đầy đủ bằng chứng.
+25. **set about (phr.v)** /ˌset əˈbaʊt/ : **bắt tay vào, bắt đầu thực hiện**, bắt đầu một công việc một cách có chủ đích; _set about doing sth_.
+26. **speculate (v)** /ˈspekjəleɪt/ : **suy đoán, phỏng đoán**, đưa ra ý kiến về điều chưa chắc chắn dựa trên thông tin hiện có.
+27. **massive compact halo object (MACHO) (n)** /ˌmæsɪv kəmˌpækt ˈheɪloʊ ˌɑːbdʒekt/ /ˈkɑːmpækt/: **vật thể quầng đặc có khối lượng lớn (MACHO)**, thuật ngữ chỉ các vật thể thiên văn tối và đặc được đề xuất như một nguồn đóng góp vào vật chất tối.
+28. **reside (v)** /rɪˈzaɪd/ : **cư trú, tồn tại/nằm ở**, trong văn phong khoa học có thể chỉ một vật hoặc đặc tính nằm/tồn tại tại một vị trí.
+29. **defy (v)** /dɪˈfaɪ/ : **thách thức, đi ngược lại, không tuân theo**, đặc biệt trong _defy explanation/expectations_ = **khó giải thích / trái với kỳ vọng**.
+30. **weakly interacting massive particle (WIMP) (n)** /ˌwiːkli ˌɪntərˈæktɪŋ ˌmæsɪv ˈpɑːrtɪkl/ : **hạt nặng tương tác yếu (WIMP)**, loại hạt giả thuyết từng được đề xuất như một ứng viên cho vật chất tối.
+31. **slow-moving (a)** /ˌsloʊ ˈmuːvɪŋ/ : **chuyển động chậm, di chuyển chậm**.
+32. **come up empty-handed (phr.)** /ˌkʌm ʌp ˌempti ˈhændɪd/ : **không tìm được gì, ra về tay trắng**, không đạt được hoặc không tìm thấy thứ đang tìm kiếm dù đã cố gắng.
+
+# Check-Up - The Speech Chain
+1. **versatility (n)** /ˌvɜːrsəˈtɪləti/ : **tính linh hoạt, tính đa năng**, khả năng thích nghi hoặc được sử dụng hiệu quả trong nhiều tình huống/mục đích khác nhau.
+2. **anatomical (a)** /ˌænəˈtɑːmɪkl/ : **thuộc giải phẫu, liên quan đến cấu tạo cơ thể**. 
+3. **apparatus (n)** /ˌæpəˈrætəs/ /ˌæpəˈreɪtəs/: **bộ máy, hệ thống thiết bị/cơ quan**, tập hợp các bộ phận cùng thực hiện một chức năng; _speech apparatus_ = **bộ máy phát âm**.
+4. **cognitive science (n)** /ˈkɑːɡnətɪv ˌsaɪəns/ : **khoa học nhận thức**, lĩnh vực nghiên cứu tư duy, trí nhớ, ngôn ngữ, tri giác và các quá trình nhận thức.
+5. **pragmatics (n)** /præɡˈmætɪks/ : **ngữ dụng học**, ngành nghiên cứu cách ngôn ngữ được hiểu và sử dụng trong ngữ cảnh thực tế.
+6. **interplay (n)** /ˈɪntərpleɪ/ : **sự tương tác, tác động qua lại**, cách hai hay nhiều yếu tố ảnh hưởng lẫn nhau.
+7. **sensory nerve (n)** /ˈsensəri nɜːrv/ : **dây thần kinh cảm giác**, dây thần kinh truyền thông tin cảm giác từ cơ quan thụ cảm đến hệ thần kinh trung ương.
+8. **motor nerve (n)** /ˈmoʊtər nɜːrv/ /ˈməʊtər/: **dây thần kinh vận động**, dây thần kinh truyền tín hiệu từ hệ thần kinh trung ương đến cơ.
+9. **sound wave (n)** /ˈsaʊnd weɪv/ : **sóng âm**, dao động lan truyền qua một môi trường và có thể được cảm nhận dưới dạng âm thanh.
+10. **vocal cords (n)** /ˈvoʊkl kɔːrdz/ : **dây thanh âm**, hai nếp mô trong thanh quản rung để tạo âm thanh. 
+11. **articulation (n)** /ɑːrˌtɪkjuˈleɪʃn/ : **sự/cách cấu âm, cách phát âm rõ các âm**, **quá trình tạo âm lời nói bằng các cơ quan phát âm.**
+12. **style (n)** /staɪl/ : **phong cách, văn phong, cách diễn đạt**, cách đặc trưng mà một người viết, nói hoặc thể hiện điều gì đó.
+13. **utterance (n)** /ˈʌtərəns/ : **phát ngôn, lời nói**, một đơn vị lời nói do một người tạo ra trong một tình huống cụ thể.
+14. **coherent (a)** /koʊˈhɪrənt/ /kəʊˈhɪrənt/: **mạch lạc, nhất quán, dễ hiểu**, có các ý hoặc phần được kết nối hợp lý.
+15. **impulse (n)** /ˈɪmpʌls/ : **xung, xung thần kinh**, tín hiệu điện truyền dọc theo dây thần kinh; ngoài ra còn có nghĩa **sự thôi thúc**.
+16. **enact (v)** /ɪˈnækt/ : **thể hiện, thực hiện thành hành động; ban hành thành luật**, tùy ngữ cảnh. 
+17. **expression (n)** /ɪkˈspreʃən/ : **sự biểu đạt, cách thể hiện; biểu cảm**, việc thể hiện ý nghĩ, cảm xúc hoặc ý nghĩa.
+18. **disruption (n)** /dɪsˈrʌpʃən/ : **sự gián đoạn, sự xáo trộn**, tình trạng một quá trình hoặc hệ thống không thể tiếp tục bình thường.
+19. **disruptive (a)** /dɪsˈrʌptɪv/ : **gây gián đoạn, gây xáo trộn**, làm cản trở hoạt động hoặc quá trình bình thường.
+20. **loop (n)** /luːp/ : **vòng lặp, chu trình khép kín**, quá trình trong đó tín hiệu hoặc hành động quay trở lại điểm trước đó.
+21. **deafness (n)** /ˈdefnəs/ : **tình trạng điếc, mất khả năng nghe**, mất thính lực hoàn toàn hoặc ở mức độ đáng kể. ⚠️ **Hearing impairment/hearing loss** rộng hơn “deafness”.
+22. **detrimental (a)** /ˌdetrɪˈmentl/ : **có hại, bất lợi, gây tổn hại**, gây ảnh hưởng tiêu cực đến một người, vật hoặc quá trình.
+23. **delve into (phr.v)** /ˌdelv ˈɪntuː/ : **đi sâu vào, nghiên cứu kỹ**, tìm hiểu một chủ đề một cách chi tiết.
+24. **staggering (a)** /ˈstæɡərɪŋ/ : **đáng kinh ngạc, rất lớn/ấn tượng**, lớn hoặc đáng chú ý đến mức gây bất ngờ.
+25. **speech chain (n)** /ˈspiːtʃ tʃeɪn/ : **chuỗi lời nói/chuỗi giao tiếp bằng lời**, quá trình liên tục từ hình thành ý định, tạo lời nói, truyền sóng âm đến việc người nghe tiếp nhận và hiểu.
+26. **primate (n)** /ˈpraɪmeɪt/ : **động vật linh trưởng**, thành viên của bộ Linh trưởng, bao gồm người, vượn, khỉ và một số loài liên quan.
+27. **speech science (n)** /ˈspiːtʃ ˌsaɪəns/ : **khoa học lời nói/ngôn âm**, lĩnh vực nghiên cứu việc tạo ra, truyền tải, cảm nhận và xử lý lời nói.
+28. **a succession of (phr.)** /ə səkˈseʃən əv/ : **một chuỗi, một loạt liên tiếp**, nhiều sự việc hoặc vật xuất hiện nối tiếp nhau.
+29. **collectively (adv)** /kəˈlektɪvli/ : **một cách tập thể, xét chung, cùng nhau**, khi nhiều thành phần được xem hoặc hoạt động như một nhóm.
+30. **aeroacoustic (a)** /ˌeroʊəˈkuːstɪk/ : **thuộc khí động âm học**, liên quan đến âm thanh được tạo ra hoặc truyền đi do chuyển động của không khí hoặc dòng khí.
+31. **bodily (a)** /ˈbɑːdəli/ : **thuộc cơ thể, về mặt thể chất**, liên quan đến cơ thể con người hoặc động vật.
+32. **instantaneously (adv)** /ˌɪnstənˈteɪniəsli/ : **ngay lập tức, tức thời**, xảy ra gần như không có độ trễ.
