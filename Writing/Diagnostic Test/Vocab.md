@@ -1,0 +1,42 @@
+# Task 1
+
+1. Biểu đồ đường phía trên cho thấy... **(phr.)** = the line graph above shows ...
+2. Rõ ràng là... **(phr.)** = It is clear that ...
+3. Theo thời gian/qua thời gian **(adv. phr.)** = over time
+4. Chiếm/cấu thành **(v. phr.)** = make up
+5. Xem xét biểu đồ kỹ hơn... **(phr.)** = Looking at the graph more closely, ...
+6. Có thể thấy rằng... **(phr.)** = one can see that ...
+7. Giảm nhẹ **(v.)** = dip
+8. Đạt đỉnh **(v.)** = peak
+9. Giảm mạnh/giảm sâu đột ngột **(v.)** = plummet
+10. Một cách đều đặn/nhất quán **(adv.)** = consistently
+11. Đáng kể/nhiều **(adv.)** = considerably
+12. Trong suốt/trong vòng một khoảng thời gian **(prep. phr.)** = over the course of ...
+13. Sự sụt giảm mạnh **(n.)** = slump
+14. Tăng/nhảy vọt **(v.)** = jump
+15. Vượt quá/vượt mức **(v.)** = exceed
+# Task 2
+1. Trường trung học nghề **(n. phr.)** = vocational high school
+2. Tỷ lệ đi học/tham gia học **(n. phr.)** = attendance rate / attendance rates
+3. Toàn diện **(a.)** = well-rounded
+4. Bao gồm **(v.)** = comprise  
+    → **comprising** = bao gồm, ở dạng V-ing
+5. Đóng góp vào/góp phần vào **(v. phr.)** = contribute to ~
+6. Lĩnh vực nghề nghiệp/công việc **(n. phr.)** = line of work
+7. Chuyên về cái gì **(v. phr.)** = specialize in ~
+8. Lĩnh vực/chuyên ngành **(n.)** = discipline
+9. Lợi thế ban đầu/xuất phát điểm thuận lợi **(n. phr.)** = a head start
+10. Cho thấy/chứng minh/thể hiện **(v.)** = demonstrate
+11. Sự cam kết/tận tâm **(n.)** = commitment
+12. Tốt hơn/đáng lựa chọn hơn **(a.)** = preferable
+13. Có một quan niệm phổ biến rằng... **(phr.)** = It is a common belief that ...
+14. Tuy nhiên, tôi tin chắc rằng... **(phr.)** = However, I firmly believe that ...
+15. Chuẩn bị cho ai đó đối mặt/làm điều gì **(v. phr.)** = prepare somebody for something
+16. Quyết định/chọn cái gì **(v. phr.)** = decide on ~
+17. Trước hết/đầu tiên **(linking phr.)** = To begin with, ...
+18. Sau này trong cuộc đời **(adv. phr.)** = later in life
+19. Có lợi thế ban đầu so với ai **(v. phr.)** = have a head start over somebody
+20. Chắc chắn sẽ/có khả năng rất cao sẽ **(v. phr.)** = be sure to + V
+21. Hơn nữa/thêm vào đó **(linking phr.)** = On top of that, ...
+22. Tóm lại **(linking phr.)** = To sum up, ...
+23. Vì những lý do này **(linking phr.)** = For these reasons, ...
