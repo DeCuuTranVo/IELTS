@@ -1,0 +1,49 @@
+# Method
+1. Nhu cầu năng lượng **(n. phr.)** = energy needs
+2. Duy trì tỷ trọng ở mức ... **(v. phr.)** = maintain a share of ...
+3. Ghi nhận mức giảm mạnh về tỷ lệ/phần trăm **(v. phr.)** = see a steep percentage decline
+4. Ghi nhận mức tăng nhẹ về tỷ lệ/phần trăm **(v. phr.)** = experience a small percentage rise
+# Hacker Practice 01
+1. Được dự báo/dự kiến sẽ tăng/giảm **(v. phr.)** = be projected to increase/decrease
+2. Được dự đoán sẽ tăng/giảm **(v. phr.)** = be predicted to increase/decrease
+3. Được kỳ vọng/dự kiến sẽ tăng/giảm **(v. phr.)** = be expected to increase/decrease
+# Hacker Practice 02
+1. Thuộc nhân khẩu học **(a.)** = demographic
+2. Nhóm tuổi/độ tuổi **(n. phr.)** = age group
+3. Một cách đều đặn/nhất quán **(adv.)** = consistently
+4. Giảm mạnh/giảm sâu đột ngột **(v.)** = plummet
+5. Dự báo/dự kiến **(v.)** = project
+6. Bao gồm/cấu thành **(v.)** = comprise  
+    → **X comprises A, B and C** = X bao gồm A, B và C  
+    → **A, B and C comprise X** = A, B và C cấu thành X
+7. Dự đoán **(v.)** = predict
+8. Mở rộng/tăng lên **(v.)** = expand
+9. Tăng lên gấp ba lần **(v.)** = triple
+10. Thu hẹp/giảm xuống **(v.)** = shrink
+11. danh từ trong quá khứ và tương lai **(a. phr.)** = past and future + N  
+    → _past and future trends_ = các xu hướng trong quá khứ và tương lai    
+12. Vẫn duy trì như vậy/vẫn ở trạng thái đó **(v. phr.)** = remain that way
+13. Trong khi đó **(linking adv.)** = meanwhile, ...
+14. Tiếp tục trong xu hướng giảm **(v. phr.)** = remain in decline
+15. Kéo dài cho đến tận ... **(phr.)** = all the way through to ...
+16. Lượng hành khách sử dụng phương tiện giao thông công cộng **(n.)** = ridership
+17. Phương tiện/hệ thống giao thông công cộng **(n. phr.)** = public transit
+18. Xe điện/tàu điện chạy trên đường ray **(n.)** = tram
+19. Xấp xỉ/khoảng **(adv.)** = roughly
+20. Ổn định/nhất quán **(a.)** = consistent
+21. Một cách mạnh/đột ngột **(adv.)** = steeply  
+    → Trong biểu đồ: _rise steeply / fall steeply_ = tăng/giảm mạnh
+22. Tăng vọt/tăng mạnh đột ngột **(v./n.)** = surge
+23. Việc/mức độ sử dụng phương tiện công cộng **(n. phr.)** = public transport use
+24. Tăng lên **(v. phr.)** = go up
+25. Hành khách xe buýt/người đi xe buýt **(n. phr.)** = bus rider
+# Hacker Test
+1. Về phía/hướng tới/gần về ... **(prep.)** = toward  
+    → _toward the end of the period_ = về cuối giai đoạn  
+    → Không nên dịch chung **toward = khoảng**.
+2. Lực lượng lao động **(n.)** = workforce
+3. Kết hợp/gộp lại **(v.)** = combine
+4. Liên quan đến/về ... **(prep. phr.)** = in regard to ...
+5. Khoảng cách/chênh lệch tăng dần giữa các nhóm **(v. phr.)** = widen from category to category
+6. Về cuối giai đoạn **(prep. phr.)** = toward the end of the period
+7. Chuyển sang một xu hướng giảm chậm và ổn định **(v. phr.)** = settle into a slow decline
