@@ -27,3 +27,16 @@ Trong trường hợp **đề bài** đưa ra cùng lúc **nhiều dạng tài l
 - Dạng hỗn hợp **Table và Bar Graph**
 - Dạng hỗn hợp **Table và Line Graph**
 - Dạng hỗn hợp **Table và Pie Chart**
+
+#### Dàn bài:
+
+| Biểu đồ 1                                                 | Biểu đồ 2                                                 |
+| --------------------------------------------------------- | --------------------------------------------------------- |
+| - Chủ đề<br>- Đặc trưng tổng quát<br>- Đặc trưng chi tiết | - Chủ đề<br>- Đặc trưng tổng quát<br>- Đặc trưng chi tiết |
+### Cấu trúc và những cách diễn đạt cơ của của bài báo cáo
+
+| Đoạn | Nội dung                                      | Cấu trúc                                                                                     |
+| ---- | --------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| 1    | Chủ đề của biểu đồ 1 và 2                     | **The table shows** + chủ đề 1, **and the bar graph indicates** + chủ đề 2                   |
+| 2    | Đặc trưng tổng quát và chi tiết của biểu đồ 1 | **According to the table, it is clear that** + đặc trưng tổng quát và chi tiết của biểu đồ 1 |
+| 3    | Đặc trưng tổng quát và chi tiết của biểu đồ 2 | **In the bar graph, it is apparent that** + đặc trưng tổng quát và chi tiết của biểu đồ 2    |
